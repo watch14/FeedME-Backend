@@ -1,1 +1,0 @@
-http://127.0.0.1:9000/get_meals_by_area/canadian
